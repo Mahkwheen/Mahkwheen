@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Godwin
-- 🌱 I’m always open learning new things...
+- 🌱 I’m a Front-end Web developer
 - 📫 Reach me 08168255797...
 
 <!---
